@@ -1,0 +1,137 @@
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csprojAssemblyReference.cache
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.Form1.resources
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.Properties.Resources.resources
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csproj.GenerateResource.cache
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.exe.config
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.exe
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.pdb
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.exe
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.pdb
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csproj.CopyComplete
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\concrt140.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\cvextern.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\msvcp140.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\vcruntime140.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\concrt140.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\cvextern.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\msvcp140.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\vcruntime140.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.World.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ZedGraph.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.World.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ZedGraph.xml
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Shavindu Senadheera\source\repos\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.exe.config
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.exe
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.pdb
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\concrt140.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\cvextern.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\msvcp140.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\vcruntime140.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\concrt140.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\cvextern.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\msvcp140.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\vcruntime140.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.exe
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.pdb
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.UI.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.World.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ZedGraph.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.UI.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.World.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ZedGraph.xml
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.Form1.resources
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.Properties.Resources.resources
+C:\Users\InDiKa\Desktop\Rush\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csproj.GenerateResource.Cache
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.exe.config
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.exe
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.pdb
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\concrt140.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\cvextern.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\msvcp140.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x64\vcruntime140.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\concrt140.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\cvextern.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\msvcp140.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\x86\vcruntime140.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.exe
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\RUSH_PROJECT.pdb
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.UI.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.World.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ZedGraph.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.UI.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\Emgu.CV.World.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ZedGraph.xml
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.Form1.resources
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.Properties.Resources.resources
+C:\Users\InDiKa\Desktop\RUSH_PROJECT\RUSH_PROJECT\obj\Debug\RUSH_PROJECT.csproj.GenerateResource.Cache
